@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">udacity-news-app</string>
+    <string name="app_title">News Android</string>
+    <string name="news_title"><![CDATA[<news_title>]]></string>
+    <string name="publish_date"><![CDATA[<publish_date>]]></string>
+    <string name="section"><![CDATA[<section>]]></string>
 </resources>
